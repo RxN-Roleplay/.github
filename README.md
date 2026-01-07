@@ -5,7 +5,7 @@
 
 ### <div align="center">Välkommen till RxN Roleplay!</div>  
 #### <div align="center">En seriös FiveM-server med fokus på kvalitativ, realistisk och långsiktig rollspel.</div>
-#### <div align="center">🚓 Fun fact: RxN Roleplay är byggd med egenutvecklade system och drivs av ett engagerat community som värdesätter immersion och rättvist spel.</div>
+#### <div align="center">RxN Roleplay är byggd med egenutvecklade system och drivs av ett engagerat community som värdesätter immersion och rättvist spel.</div>
 <br />
 
 
